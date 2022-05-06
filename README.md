@@ -1,3 +1,5 @@
+PLEASE READ: This repo is now no-longer needed as it has been merged with the original Greeting Simulator
+
 # Greeting Simulator 1.1 (Merged With Greeting Simulator ULTRA)
 Improvments From Greeting Simulator 1.0
 1. Different Color Scheme
